@@ -7,7 +7,7 @@
 git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
 ```
 
-butterfly目录下新增了custom.css文件，也就是自定义博客样式，俗称魔改，本项目只是简单对页面进行了优化。
+themes\butterfly\source\css目录下新增了custom.css文件，也就是自定义博客样式，俗称魔改，本项目只是简单对页面进行了优化。
 
 
 #### 1、安装依赖
