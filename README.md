@@ -9,8 +9,18 @@ git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes
 
 themes\butterfly\source\css目录下新增了custom.css文件，也就是自定义博客样式，本项目只是简单对页面进行了优化。
 
+## 前提
+1、本地环境已安装node.js
+2、本地已安装git
+3、建议使用cnpm
 
-#### 1、安装依赖
+#### 安装hexo-cli
+```
+npm install hexo-cli -g
+```
+
+#### 2、安装依赖
+
 ``` 
 npm install / cnpm install  
 ```
