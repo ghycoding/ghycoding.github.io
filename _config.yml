@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: XiaoGao's Blog
+title: hexo Blog
 subtitle: ''
 description: ''
 keywords:
@@ -105,20 +105,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
   algolia:
-  appId: "6SVZVYZAL2"
-  apiKey: "946d1109a30e99b0a85c58a627e45251"
-  adminApiKey: "6d6e24eb1b86778d6b19f607adaf619c"
+  appId: ""
+  apiKey: ""
+  adminApiKey: ""
   chunkSize: 5000
-  indexName: "ghyblog"
-  fields:
-    - content:strip:truncate,0,500
-    - excerpt:strip
-    - gallery
-    - permalink
-    - photos
-    - slug
-    - tags
-    - title
+  indexName: ""
+
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
@@ -127,7 +119,7 @@ theme: butterfly
 deploy:
   type: git
   branch: master
-  repo: https://github.com/ghycoding/ghycoding.github.io.git
+  repo: https://github.com/xxx/xxx.github.io.git
 
 
   # 时钟插件

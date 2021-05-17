@@ -8,20 +8,12 @@
 
 menu:
   首页: / || fas fa-home
-  #时间轴: /archives/ || fas fa-archive
-  前端|| fas fa-folder-open:
-    Css: /categories/css/ 
-    JavaScript: /categories/js/ 
-    Vue: /categories/vue/ 
-    归档: /categories/all/ 
-  hexo: /categories/hexo/ || fas fa-tags
-  每日一题|| fa fa-heartbeat:
-    前端: /categories/web/ || fas star-half-o
-  清单|| fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    电影: /movies/ || fas fa-video
-  关于我: /about/ || fas fa-heart
+  时间轴: /archives/ || fas fa-archive
+  分类|| fas fa-folder-open:
+    分类1: /categories/one/ 
+    分类2: /categories/two/ 
+    分类3: /categories/three/ 
+  关于: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -29,7 +21,7 @@ hide_sidebar_menu_child: false
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: mac light  #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: light  #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button

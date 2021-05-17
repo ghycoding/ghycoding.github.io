@@ -72,7 +72,7 @@ background: rgba(255, 255, 255, 0.5);
 }
 
 #web_bg {
-  background: linear-gradient(90deg,rgba(247,149,51,.1),rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1))
+  /* background: rgba(255,192,203,0.5); */
   /* background-image: url('https://wallroom.io/img/1920x1200/bg-61c5560.jpg'); */
 }
 
