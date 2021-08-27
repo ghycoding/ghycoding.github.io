@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2717721 */
+  src: url('//at.alicdn.com/t/font_2717721_qtk6dk8sv.woff2?t=1630036310880') format('woff2'),
+       url('//at.alicdn.com/t/font_2717721_qtk6dk8sv.woff?t=1630036310880') format('woff'),
+       url('//at.alicdn.com/t/font_2717721_qtk6dk8sv.ttf?t=1630036310880') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gentleman:before {
+  content: "\e645";
+}
+
+.icon-sailor:before {
+  content: "\e646";
+}
+
+.icon-samurai:before {
+  content: "\e648";
+}
+
+.icon-man:before {
+  content: "\e649";
+}
+
+.icon-florist:before {
+  content: "\e64a";
+}
+
+.icon-woman-3:before {
+  content: "\e64b";
+}
+
+.icon-weixingongzhonghao:before {
+  content: "\e705";
+  font-size: 26px;
+  color: #00bf03
+}
+
+.icon-buoumaotubiao02:before {
+  content: "\e601";
+  font-size: 20px;
+  color: #ea6f5a
+}
+
+.icon-shequ:before {
+  content: "\e627";
+  font-size: 24px;
+  color: #1296db
+}
+
+.icon-gongzhonghao:before {
+  content: "\e735";
+  font-size: 26px;
+  color: #00bf03
+}
+
+.icon-weixin:before {
+  content: "\e6ea";
+  font-size: 24px;
+  color: #00bf03
+}
