@@ -19,6 +19,11 @@
 *{
   font-family: Titillium Web;
   font-size: 14px;
+  letter-spacing: 1.7px !important;
+}
+*::selection{
+  /* background: linear-gradient(to top, #d299c2 0%, #fef9d7 100%) !important; */
+  background: #d299c2  !important;
 }
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item{
@@ -89,6 +94,9 @@ background: rgba(255, 255, 255, 0.5);
 
 /* 模糊图片变得清晰 */
 /*10s为加载动画的时间，1为加载动画的次数，ease-in-out为动画效果*/
+#page-header{
+  /* background: none  !important; */
+}
 #page-header,
 #web_bg {
     -webkit-animation: imgblur 1s 1 ease-in-out;
