@@ -1,8 +1,9 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 2717721 */
+  font-family: "iconfont";
+  /* Project id 2717721 */
   src: url('//at.alicdn.com/t/font_2717721_f71j2x3bwj.woff2?t=1630661229670') format('woff2'),
-       url('//at.alicdn.com/t/font_2717721_f71j2x3bwj.woff?t=1630661229670') format('woff'),
-       url('//at.alicdn.com/t/font_2717721_f71j2x3bwj.ttf?t=1630661229670') format('truetype');
+    url('//at.alicdn.com/t/font_2717721_f71j2x3bwj.woff?t=1630661229670') format('woff'),
+    url('//at.alicdn.com/t/font_2717721_f71j2x3bwj.ttf?t=1630661229670') format('truetype');
 }
 
 
@@ -17,14 +18,17 @@
 
 .icon-shuben:before {
   content: "\e603";
+  font-size: 22px;
 }
 
 .icon-shouye:before {
   content: "\e68c";
+  font-size: 22px;
 }
 
 .icon-gongju:before {
   content: "\e604";
+  font-size: 18px;
 }
 
 .icon-gentleman:before {

@@ -17,8 +17,8 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 *{
-  font-family: Titillium Web;
-  font-size: 14px;
+  /* font-family: Titillium Web; */
+  font-size: 16px;
   letter-spacing: 1.7px !important;
 }
 *::selection{
@@ -27,7 +27,7 @@
 }
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item{
-  background:rgba(255, 255, 255, 0.5);
+  background:rgba(255, 255, 255, 1) !important;
 }
 /* 首页侧栏卡片 */
 .card-widget{
@@ -87,8 +87,8 @@ background: rgba(255, 255, 255, 0.5);
 
 #web_bg {
   /* background: linear-gradient(90deg,rgba(247,149,51,.1),rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1)) */
-  /* background-image: url('https://wallroom.io/img/1920x1200/bg-61c5560.jpg'); */
-  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: url('https://ghypicgo.oss-cn-beijing.aliyuncs.com/picgo/202109061116458.png');
+  /* background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%); */
 }
 
 
